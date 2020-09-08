@@ -1,0 +1,24 @@
+body {
+  background-color: lightBlue;
+  font-family: "Helvetica";
+}
+
+#s1 {
+  text-align: center;
+  background-color: darkBlue;
+  padding: 50px;
+  margin: 20px;
+}
+
+h1 {
+  color: lightBlue;
+}
+
+.s2 {
+  width: 80%;
+  background-color: lightBlue;
+  padding: 20px;
+  /* treats divs as text */
+  display: inline-block;
+  text-align: left;
+}
